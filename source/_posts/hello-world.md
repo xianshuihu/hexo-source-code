@@ -35,4 +35,8 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 $ hexo deploy
 ```
 
+## Qiniu
+
+{% qnimg demo.png alt:hexo常用命令 %}
+
 More info: [Deployment](https://hexo.io/docs/deployment.html)

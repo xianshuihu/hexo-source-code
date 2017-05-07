@@ -62,6 +62,24 @@ pagination_dir: page
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
+qiniu:
+  offline: false
+  sync: true
+  bucket: xianshuihu
+  access_key: Y_T4kmQQqWqOy2w4-kK7DeFYZyIwml81tbYQYwqO
+  secret_key: YoO6lPntCz1WiDecCOvoTi5KwCKXBHhmI5kLfWKb
+  dirPrefix: static
+  urlPrefix: http://opdmydhww.bkt.clouddn.com/static
+  up_host: http://upload.qiniu.com
+  local_dir: static
+  update_exist: true
+  image: 
+    folder: images
+    extend: -qnimgstyle
+  js:
+    folder: js
+  css:
+    folder: css
 ## Themes: https://hexo.io/themes/
 theme: next
 
