@@ -3,12 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: xianshuihu
 subtitle:
 description:
-author: John Doe
-language:
+author: xianshuihu
+language: zh-Hans
 timezone:
+avatar: http://opdmydhww.bkt.clouddn.com/avatar.png
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
