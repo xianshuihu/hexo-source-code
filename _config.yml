@@ -44,6 +44,11 @@ highlight:
   auto_detect: false
   tab_replace:
 
+# Local Search
+search:
+  path: search.xml
+  field: post
+
 # Category & Tag
 default_category: uncategorized
 category_map:
