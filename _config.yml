@@ -9,7 +9,7 @@ description:
 author: xianshuihu
 language: zh-Hans
 timezone:
-avatar: http://opdmydhww.bkt.clouddn.com/static/images/avatar.png
+avatar: /images/avatar.png
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
